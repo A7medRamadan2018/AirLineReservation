@@ -1,0 +1,3 @@
+Full_Name  Passport_Number  Flight_Number   Seat_Number
+aa 2 0 0
+a33 507 16777216 65536
